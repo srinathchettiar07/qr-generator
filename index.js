@@ -5,7 +5,7 @@ import fs from 'fs';
 inquirer
   .prompt([
     {
-        message:"what is the url?",
+        message:"what's the url?",
         name :"url",
     }
   ])
